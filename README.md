@@ -1,0 +1,1 @@
+This contains the model and synthetic datasets used in paper entitled "A Migration-Assisted Deep Learning Scheme for Imaging Defects Inside Cylindrical Structures via GPR —A Case Study for Tree Trunks". Info will be released shortly
